@@ -1,5 +1,8 @@
 # Week-1-Homework
-Increasing this sites usability and accessability.
+
+## Requirement 
+
+Request to increasing this sites usability and accessability of marketing agency's (Horiseon) website.
 
 ## Published Webpage
 
